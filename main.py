@@ -3,7 +3,7 @@ import random
 from telegram import Update, ReplyKeyboardMarkup, KeyboardButton
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = "8991610241:AAEMNeaET65yRRCFrSHbJn9E9UsnGcgGO88"
+TOKEN ="8707560183:AAFW_3ItFrHmoHIlJHb6m3U2UaOKWLBHxlA"
 BOT_OWNER_ID = 848578882
 
 user_custom_ids = {}
